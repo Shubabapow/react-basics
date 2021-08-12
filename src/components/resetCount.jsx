@@ -7,10 +7,6 @@ class ResetCount extends Component {
 
     resetState() {
 
-
-
-
-
     }
 
     render() {
